@@ -133,7 +133,7 @@ export default App;*/
 import React, { useState, useEffect } from 'react';
 import Header from './Header.jsx';
 import AuthForm from './Authform.jsx';
-import PostForm from './PostForm.jsx';
+//import PostForm from './Postform.jsx';
 import PostList from './Postlist.jsx';
 import PostDetail from './Postdetail.jsx';
 import Footer from './Footer.jsx';
